@@ -8,7 +8,7 @@ Andrés Rodríguez</a></h1>
 
 - 🌱 I’m currently Working on Web App(Next js, React, React-Native)
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available.
 
 - 🌱 I’m currently learning Nestjs && Ia
 
