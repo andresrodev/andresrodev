@@ -32,9 +32,10 @@ Andrés Rodríguez</a></h1>
 
 ---
 
-<h1 align="center">BLOGS</h1>
-<a href="https://www.linkedin.com/pulse/what-5-things-you-must-do-your-first-paycheck-raviraj-solanki/" target="blank">
-<img src="https://media-exp1.licdn.com/dms/image/C4D12AQHVBf5FWRnp0w/article-cover_image-shrink_720_1280/0/1638538607562?e=1649289600&v=beta&t=nsF1Hf0YkmXip-kGt031yqNAHaOD3TkuNSl4hVwF52c" ></a>
+<h1 align="center">Domi web page</h1>
+<a href="https://domi-murex.vercel.app" target="blank">
+<img width="1403" height="678" alt="image" src="https://github.com/user-attachments/assets/aed0acc9-39e5-4c33-b8fd-487383d3426f" />
+</a>
 
 ---
 
